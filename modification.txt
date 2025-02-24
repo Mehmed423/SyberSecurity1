@@ -1,0 +1,5 @@
+Enter the string to encrypt:
+Hello World 123!
+Enter the shift key:
+7
+Encrypted text: Olssv Dvysk 890!
